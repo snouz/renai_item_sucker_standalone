@@ -1,0 +1,13 @@
+{
+  "name": "renai_item_sucker_standalone",
+  "version": "1.0.0",
+  "title": "Renai's item sucker (standalone)",
+  "author": "kiplacon, snouz",
+  "contact": "discord @snouz",
+  "homepage": "https://github.com/snouz/renai_item_sucker_standalone",
+  "description": "renai_item_sucker_standalone.",
+  "factorio_version":"2.0",
+  "dependencies": [
+    "base"
+  ]
+}
